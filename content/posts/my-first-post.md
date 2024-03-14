@@ -8,3 +8,5 @@ draft = true
 
 This is **bold** text and this is *emphasis* text.
 Visit [Hugo](http://gohugo.io/) for more information.
+
+This is a change. That is all.
